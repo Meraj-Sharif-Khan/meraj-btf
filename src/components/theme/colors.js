@@ -9,7 +9,7 @@ const light = {
   cardForeground: "oklch(0.145 0 0)",
   popover: "oklch(1 0 0)",
   popoverForeground: "oklch(0.145 0 0)",
-  primary: "#0061AF",
+  primary: "#CE1337",
   primaryForeground: "oklch(0.985 0 0)",
   secondary: "oklch(0.97 0 0)",
   secondaryForeground: "oklch(0.205 0 0)",
