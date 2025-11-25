@@ -15,7 +15,7 @@
 ### How to run
 
 * clone this directory.
-`https://github.com/Meraj-Sharif-Khan/amarcoffee`
+`https://github.com/Meraj-Sharif-Khan/meraj-btf`
 
 * Install dependencies.
 `npm install`
@@ -26,8 +26,8 @@
 
 ### Feature
 - Responsive
-- Theme Switcher
-- Add to Favorites
+
+
 
 ### Technology Used
 
@@ -51,8 +51,8 @@ UI Components
 
 ### Links
 
-- Live URL: [Live URL](https://amarcoffee.netlify.app/)
-- GitHub URL: [GitHub URL](https://github.com/Meraj-Sharif-Khan/amarcoffee)
+
+- GitHub URL: [GitHub URL](https://github.com/Meraj-Sharif-Khan/meraj-btf)
 
 ## Screenshots
 
